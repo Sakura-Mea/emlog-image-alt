@@ -193,7 +193,7 @@ A: 目前通过**苏酷伊官网手动更新**，更新地址👉：[https://www
 - **作者**：苏酷伊
 - **官方网站**：https://www.sukuy.com
 - **插件更新**：[https://www.sukuy.com/image-alt](https://www.sukuy.com/image-alt "https://www.sukuy.com/image-alt")
-- **GitHub**：[https://github.com/Sakura-Mea](https://github.com/Sakura-Mea "https://github.com/Sakura-Mea")
+- **Github**：[https://github.com/Sakura-Mea](https://github.com/Sakura-Mea "https://github.com/Sakura-Mea")
 - **Gitee**：[https://gitee.com/Munsea](https://gitee.com/Munsea "https://gitee.com/Munsea")
 - **联系邮箱**：sakura@sukuy.com
 
