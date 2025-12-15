@@ -55,15 +55,13 @@
 
 ### 方法二：手动安装
 1. 下载插件压缩包
-2. 解压后将**image_alt**文件夹上传到Emlog的`content/plugins/`目录
+2. 解压后将“image-alt”文件夹上传到Emlog的`content/plugins/`目录
 3. 登录Emlog后台管理界面
 4. 进入"插件" -> "已安装插件"
 5. 找到"图片Alt属性自动添加"插件，点击"激活"
 
 ## 插件演示
 ![Emlog图片自动添加alt属性插件展示图](https://www.sukuy.com/images/202512/image-alt-1-20251215.webp "Emlog图片自动添加alt属性插件展示图")
-
-![批量添加alt属性展示图](https://www.sukuy.com/images/202512/image-alt-2-20251215.webp "批量添加alt属性展示图")
 
 ![自定义单篇文章添加alt属性展示图](https://www.sukuy.com/images/202512/image-alt-3-20251215.webp "自定义单篇文章添加alt属性展示图")
 
