@@ -8,6 +8,8 @@
 
 为了解决这一问题，我们特意开发一款名为**图片Alt属性自动添加**的插件，这款插件经过反复测试，已确保插件功能正常运转。**图片Alt属性自动添加插件**是一款为**Emlog博客**系统设计的**SEO优化工具**，支持提取全站所有缺失alt属性的文章和图片，支持自动为文章图片添加alt/title属性，支持批量自定义处理和按文章标题自动生成博客文章中的图片添加alt和title属性，提升网站的SEO效果和可访问性。
 
+## Gitee国内加速镜像仓库： [https://gitee.com/Munsea/emlog-image-alt](https://gitee.com/Munsea/emlog-image-alt)
+
 ## 功能特性
 
 ### 1. 自动添加功能
@@ -191,7 +193,8 @@ A: 目前通过**苏酷伊官网手动更新**，更新地址👉：[https://www
 - **作者**：苏酷伊
 - **官方网站**：https://www.sukuy.com
 - **插件更新**：[https://www.sukuy.com/image-alt](https://www.sukuy.com/image-alt "https://www.sukuy.com/image-alt")
-- **GitHub**：[https://github.com/Sakura-Mea/emlog-image-alt](https://github.com/Sakura-Mea/emlog-image-alt "https://github.com/Sakura-Mea/emlog-image-alt")
+- **GitHub**：[https://github.com/Sakura-Mea](https://github.com/Sakura-Mea "https://github.com/Sakura-Mea")
+- **Gitee**：[https://gitee.com/Munsea](https://gitee.com/Munsea "https://gitee.com/Munsea")
 - **联系邮箱**：sakura@sukuy.com
 
 ## 交流社群
