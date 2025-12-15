@@ -55,7 +55,7 @@
 
 ### 方法二：手动安装
 1. 下载插件压缩包
-2. 解压后将`image_alt`文件夹上传到Emlog的`content/plugins/`目录
+2. 解压后将**image_alt**文件夹上传到Emlog的`content/plugins/`目录
 3. 登录Emlog后台管理界面
 4. 进入"插件" -> "已安装插件"
 5. 找到"图片Alt属性自动添加"插件，点击"激活"
