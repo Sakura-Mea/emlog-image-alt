@@ -1,4 +1,4 @@
-图片Alt属性自动添加插件（emlog-image-alt）是由苏酷伊（sukuy.com）为Emlog博客系统设计开发的SEO优化工具，支持提取全站所有缺失alt属性的文章和图片，支持自动为文章图片添加alt/title属性，支持批量自定义处理和按文章标题自动生成博客文章中的图片添加alt和title属性，提升网站的SEO效果和可访问性。
+## 图片Alt属性自动添加插件（emlog-image-alt）是由苏酷伊（sukuy.com）为Emlog博客系统设计开发的SEO优化工具，支持提取全站所有缺失alt属性的文章和图片，支持自动为文章图片添加alt/title属性，支持批量自定义处理和按文章标题自动生成博客文章中的图片添加alt和title属性，提升网站的SEO效果和可访问性。
 
 ## Gitee国内加速镜像仓库： [https://gitee.com/Munsea/emlog-image-alt](https://gitee.com/Munsea/emlog-image-alt)
 
